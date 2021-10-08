@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Milo",
+      "image": "https://www.litter-robot.com/blog/wp-content/uploads/2020/07/andy-holmes-ANEtDPAHz5Q-unsplash.jpg",
+      "likes": 10,
+      "id": 10
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 1,
+      "id": 11
     }
   ]
 }
